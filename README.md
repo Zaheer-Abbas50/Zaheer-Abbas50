@@ -22,7 +22,6 @@ I enjoy building applications and exploring data to uncover insights. Currently,
 
 ## ✨ Featured Projects
 
-*(You can uncomment and update these links once you pin repositories)*
 
 *   **[Pharmacy Management System](https://github.com/Zaheer-Abbas50/Pharmacy-Management-System)**: A web application built with Flask and MySQL to manage pharmacy operations, including customer data, orders, and billing (demonstrates web dev & database skills).
     *   *Live Demo:* [https://zaheerabbas.pythonanywhere.com/](https://zaheerabbas.pythonanywhere.com/)
