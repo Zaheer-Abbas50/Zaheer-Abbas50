@@ -34,8 +34,8 @@ I enjoy building applications and exploring data to uncover insights. Currently,
 
 ## 📫 How to Reach Me
 
-*   *www.linkedin.com/in/zaheer-abbas-01509a264*
-*   *bscs22f50@namal.edu.pk*
+*   [LinkedIn](https://www.linkedin.com/in/zaheer-abbas-01509a264/)
+*   [Email](mailto:bscs22f50@namal.edu.pk)
 
 ---
 
